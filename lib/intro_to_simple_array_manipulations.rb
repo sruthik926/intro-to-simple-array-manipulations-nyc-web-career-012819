@@ -1,3 +1,3 @@
 def using_delete_at(array, int)
-  return array.delete
+  return array.delete(array[int])
 end
