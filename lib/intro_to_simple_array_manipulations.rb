@@ -27,7 +27,7 @@ def shift_with_args(array)
 end
 
 def shift_with_args(array)
-  array.count - 2
+  array.pop(2)
 end
 
 
