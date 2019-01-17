@@ -6,4 +6,6 @@ def using_push(array, str)
   return array.push(str)
 end
 
-def 
+def using_unshift(array, str)
+  array.unshift(str)
+end
